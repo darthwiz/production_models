@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["luciano.dilucrezia@gmail.com"]
   spec.description   = %q{Access your production models in development environment.}
   spec.summary       = %q{Wraps production ActiveRecord models in a new namespace for easy access and transfer from development environment.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/darthwiz/production_models"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
